@@ -467,7 +467,7 @@ img {
     margin-bottom: 1.625em;
 }
 /*p+img, img:last-child{
-	margin-bottom: 0;
+    margin-bottom: 0;
 }*/
 .img--fullwidth {
     width: 100%;
@@ -1106,7 +1106,7 @@ a {
 }
 .btn .btn__text,
 .btn i {
-    font-size: .625em;
+    font-size: 1em;
     font-weight: 400;
 
     color: #343434;
@@ -1194,8 +1194,8 @@ a {
 }
 .btn--primary,
 .btn--primary:visited {
-    border-color: #425cbb;
-    background: #425cbb;
+    border-color: #3FCF8E;
+    background: #3FCF8E;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -1206,10 +1206,10 @@ a {
     color: #fff;
 }
 .btn--primary:hover {
-    background: #546cc3;
+    background: #2F9969;
 }
 .btn--primary:active {
-    background: #3b53a8;
+    background: #3FCF8E;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
@@ -3690,10 +3690,10 @@ span.label {
 }
 /*! -- Pillar Buttons -- */
 .btn.btn--primary {
-    border-color: #425cbb;
+    border-color: #3FCF8E;
 }
 .btn.btn--primary:hover {
-    border-color: #546cc3;
+    border-color: #2F9969;
 }
 .btn.btn--success {
     border-color: #64b671;
@@ -5201,7 +5201,7 @@ li + li .input-checkbox {
 
     content: "";
 
-    background: #f4f4f4;
+    background: #1B2432;
 }
 .cover-9 .logo {
     max-height: 10em;

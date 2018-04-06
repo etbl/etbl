@@ -1,4 +1,32 @@
   /**!**************/
+
+
+
+/*/*  /*Navy*/
+
+#1B2432 /*Primary*/
+#263245
+#515B6A
+#E7EDEE
+
+/*Blue*/
+
+#2F96D2 /*Primary*/
+#38ACF0
+#5CC3FF
+#73BBFF
+
+/*Red*/
+
+/* #F54B5E Primary*/
+/* #FDDBDF*/
+
+/*Green*/
+
+/* #3FCF8E Primary*/
+/* #D9F5E8 */
+
+
 /**! Contents **/
 /**! 1. Reset **/
 /**! 2. Helper Classes **/
@@ -137,7 +165,7 @@ h6,
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
     font-weight: 600;
 
-    color: #343434;
+    color: #1B2432;
 
     font-variant-ligatures: common-ligatures;
 }

@@ -1,20 +1,18 @@
   /**!**************/
 
+/*Navy*/
 
-
-/*/*  /*Navy*/
-
-#1B2432 /*Primary*/
-#263245
-#515B6A
-#E7EDEE
+/*#1B2432 Primary*/
+/*#263245*/
+/*#515B6A*/
+/*#E7EDEE*/
 
 /*Blue*/
 
-#2F96D2 /*Primary*/
-#38ACF0
-#5CC3FF
-#73BBFF
+/*#2F96D2 Primary*/
+/*#38ACF0*/
+/*#5CC3FF*/
+/*#73BBFF*/
 
 /*Red*/
 
@@ -5221,7 +5219,7 @@ li + li .input-checkbox {
 }
 .cover-9:before {
     position: absolute;
-    top: -13em;
+    top: -4em;
     left: 0;
 
     width: 100%;
@@ -5229,7 +5227,10 @@ li + li .input-checkbox {
 
     content: "";
 
-    background: #1B2432;
+    background: #1B2432 url(../img/hero10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
 }
 .cover-9 .logo {
     max-height: 10em;
@@ -5237,6 +5238,11 @@ li + li .input-checkbox {
 .cover-9 p.lead {
     margin-bottom: 2.26086956521739em;
 }
+
+.cover-9 p.lead {
+    color: #FFF;
+}
+
 .cover-9 .cover__image {
     margin-top: 4.875em;
 }

@@ -671,7 +671,7 @@ img {
 
     content: "";
 
-    background: #232323;
+    background: #1B2432;
 }
 [data-overlay] *:not(.container):not(.background-image-holder) {
     z-index: 2;
@@ -3805,6 +3805,12 @@ span.label {
 .logo {
     margin: 0;
 }
+
+.cover .logo {
+    max-height: 10em;
+}
+
+
 .nav-bar {
     padding-right: 0;
 

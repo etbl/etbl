@@ -2412,6 +2412,11 @@ section.bg--dark .slider.slider--controlsoutside[data-paging="true"] .owl-theme 
     cursor: default;
 }
 /**! 22. Modals **/
+
+
+
+/*Theme*/
+
 .modal-instance .modal-body {
     display: none;
 }

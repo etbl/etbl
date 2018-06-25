@@ -83,6 +83,7 @@ Add your custom styles below
   font-size: 14px;
   padding: 0 18px;
   font-weight: bold;
+  z-index: 999999;
 }
 
 /* Custom styles */
